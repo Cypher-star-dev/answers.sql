@@ -1,0 +1,2 @@
+Questions 1. The SQL query to create a new database is CREATE DATABASEDB salesDB;   That command creates a new databse called salesDB.
+Question 2. The SQL query to drop (delete) is  DROP DATABASE demo;   That command deletes the database and all its contents.
